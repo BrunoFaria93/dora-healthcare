@@ -21,14 +21,14 @@ export const metadata: Metadata = {
     title: "Dora Healthcare",
     description:
       "Conectando pacientes e profissionais de saúde com empatia e eficiência.",
-    url: "https://seudominio.com",
+    url: "https://dora-healthcare.vercel.app",
     siteName: "Dora Healthcare",
     images: [
       {
-        url: "https://seudominio.com/dora-icon.png",
-        width: 800,
-        height: 800,
-        alt: "Ícone da Dora - Plataforma de Saúde",
+        url: "https://dora-healthcare.vercel.app/dora-icon.png", // caminho completo
+        width: 1200,
+        height: 630,
+        alt: "Banner da Dora Healthcare",
       },
     ],
     locale: "pt_BR",
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     title: "Dora Healthcare",
     description:
       "Conectando pacientes e profissionais de saúde com empatia e eficiência.",
-    images: ["https://seudominio.com/dora-icon.png"],
+    images: ["https://dora-healthcare.vercel.app/dora-icon.png"], // também no Twitter
   },
 };
 
